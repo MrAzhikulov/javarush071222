@@ -8,6 +8,7 @@ public class Main {
             sum = sum + data[i];
         }
         System.out.println(sum);
+        System.out.println(sum);
     }
 
     public static void main(String[] args) {
